@@ -1,67 +1,49 @@
 # 🎁 Wrap Genius Gift Petal
 
-![Banner](https://via.placeholder.com/1200x400?text=Wrap+Genius+Gift+Petal)
-
-A beautifully designed gift website that helps users explore, customize, and send perfect gifts for every occasion.
-
----
-
-## 🌸 About the Project
-
-**Wrap Genius Gift Petal** is an elegant online gifting platform focused on delivering a smooth and delightful user experience.
-
-✨ Discover unique gifts  
-🎨 Customize your presents  
-❤️ Send love effortlessly  
+An elegant and modern gifting platform designed to deliver a seamless and delightful shopping experience.  
+Discover, customize, and send meaningful gifts with ease.
 
 ---
 
-## 🎥 Demo Preview
+## ✨ Overview
 
-![Demo GIF](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3Q4b3J4d2Q3ZzF0bGxqZzF6Z2J3dXJzZ3N5d2xkZ3M1d2R1dCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3o7TKtnuHOHHUjR38Y/giphy.gif)
+**Wrap Genius Gift Petal** is a user-friendly web application that allows users to explore curated gift collections and experience smooth navigation from browsing to checkout.
+
+The project focuses on clean design, usability, and a premium user experience.
 
 ---
 
-## 🚀 Features
+## 🚀 Key Features
 
-- 🎁 Wide range of gift collections  
-- 🛒 Smooth shopping experience  
-- 💳 Easy checkout process  
-- 🎨 Beautiful and responsive UI  
-- 🔍 Smart search & filtering  
-- ❤️ Personalized gift options  
+- 🎁 Curated gift collections
+- 🛒 Smooth cart & checkout flow
+- 🔍 Easy navigation and browsing
+- 📱 Fully responsive design
+- ⚡ Fast and lightweight performance
+- 🎨 Minimal and modern UI
+
+---
+
+## 🎯 User Flow
+
+1. Browse available gifts  
+2. Explore product details  
+3. Add items to cart  
+4. Proceed to checkout  
 
 ---
 
 ## 🛠️ Tech Stack
 
-- Frontend: HTML, CSS, JavaScript *(or React)*
-- Backend: FastAPI *(if used)*
-- Database: PostgreSQL  
+- **Frontend:** HTML, CSS, JavaScript  
+- **Backend:** FastAPI *(if implemented)*  
+- **Database:** PostgreSQL  
 
 ---
 
-## 🌟 Website Highlights
+## ⚙️ Getting Started
 
-### 🏠 Homepage
-
-![Homepage](https://via.placeholder.com/800x400?text=Homepage+Preview)
-
----
-
-### 🎁 Gift Collection
-
-![Products](https://via.placeholder.com/800x400?text=Gift+Collection)
-
----
-
-### 🛒 Cart & Checkout
-
-![Checkout](https://via.placeholder.com/800x400?text=Checkout+Page)
-
----
-
-## ⚙️ Setup Instructions
+### Clone the repository
 
 ```bash
 git clone https://github.com/your-username/wrap-genius-gift-petal.git

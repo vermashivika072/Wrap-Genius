@@ -1,4 +1,6 @@
-# 🎁 Wrap Genius Gift Petal
+# 🎁 Wrap Genius
+
+Gift Petal
 
 An elegant and modern gifting platform designed to deliver a seamless and delightful shopping experience.  
 Discover, customize, and send meaningful gifts with ease.
@@ -7,7 +9,7 @@ Discover, customize, and send meaningful gifts with ease.
 
 ## ✨ Overview
 
-**Wrap Genius Gift Petal** is a user-friendly web application that allows users to explore curated gift collections and experience smooth navigation from browsing to checkout.
+**Wrap Genius( Gift Petal)** is a user-friendly web application that allows users to explore curated gift collections and experience smooth navigation from browsing to checkout.
 
 The project focuses on clean design, usability, and a premium user experience.
 
@@ -37,7 +39,7 @@ The project focuses on clean design, usability, and a premium user experience.
 
 - **Frontend:** HTML, CSS, JavaScript  
 - **Backend:** FastAPI *(if implemented)*  
-- **Database:** PostgreSQL  
+- **Database:** Console Firestore 
 
 ---
 
